@@ -1,0 +1,10 @@
+debug/calculator.o
+debug/core.o
+debug/calculator.o
+debug/core.o
+debug/calculator.o
+debug/core.o
+debug/core.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_mainwindow.o

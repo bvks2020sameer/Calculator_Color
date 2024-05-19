@@ -1,0 +1,10 @@
+release/calculator.o
+release/core.o
+release/calculator.o
+release/core.o
+release/calculator.o
+release/core.o
+release/core.o
+release/main.o
+release/mainwindow.o
+release/moc_mainwindow.o
